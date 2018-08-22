@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ab6c730-9d5f-4074-8fa4-4a60fc538b9e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="3ab6c730-9d5f-4074-8fa4-4a60fc538b9e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -20,8 +17,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="339" column="26" selection-start-line="339" selection-start-column="26" selection-end-line="339" selection-end-column="26" />
+            <state relative-caret-position="270">
+              <caret line="138" column="73" selection-start-line="138" selection-start-column="73" selection-end-line="138" selection-end-column="73" />
             </state>
           </provider>
         </entry>
@@ -72,7 +69,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="486" />
     <option name="y" value="57" />
     <option name="width" value="1400" />
@@ -144,12 +141,12 @@
       <updated>1534775035848</updated>
       <workItem from="1534775037740" duration="8717000" />
       <workItem from="1534828105424" duration="2012000" />
-      <workItem from="1534900050016" duration="7148000" />
+      <workItem from="1534900050016" duration="7755000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17877000" />
+    <option name="totallyTimeSpent" value="18484000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="486" y="57" width="1400" height="1000" extended-state="0" />
@@ -236,8 +233,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="339" column="26" selection-start-line="339" selection-start-column="26" selection-end-line="339" selection-end-column="26" />
+        <state relative-caret-position="270">
+          <caret line="138" column="73" selection-start-line="138" selection-start-column="73" selection-end-line="138" selection-end-column="73" />
         </state>
       </provider>
     </entry>
